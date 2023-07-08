@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour apprev="18043" appversion="6.1.11" start="node35">
+<tour apprev="18043" appversion="6.1.11" start="node36">
   <panorama id="node36">
     <input levelingroll="0" levelbias="0.400" levelingpitch="0" width="2388" height="1510" overlap="1" cylinder="1" leveltilesize="510" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" flat="1">
       <level width="2388" height="1510" preload="0" predecode="0"/>
@@ -285,6 +285,7 @@
       <hotspot id="Point05" skinid="ht_node" tilt="-9.5" title="" target="" url="{node30}" description="" pan="-27.82"/>
       <hotspot id="Point06" skinid="ht_node" tilt="-0.29" title="" target="" url="{node31}" description="" pan="13.51"/>
       <hotspot id="Point07" skinid="ht_node" tilt="-2.77" title="" target="" url="{node32}" description="" pan="-11.61"/>
+      <hotspot id="Point08" skinid="ht_image" tilt="-26.71" title="Smith Systems" target="" url="images/icon1.jpg" description="SMCSC 912W12000" pan="-22.22"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" zoomfov="20" zoomafteroutfov="20" zoomoutpause="1" zoomspeed="2" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" zoomin="0" enabled="1" softedge="0" blendtime="0"/>
@@ -1052,7 +1053,6 @@
       <hotspot id="Point05" skinid="ht_node" tilt="-8.36" title="" target="169.7/-0.6/70.0" url="{node32}" description="" pan="-144.54"/>
       <hotspot id="Point06" skinid="ht_node" tilt="-14.11" title="" target="-52.0/1.8/70.0" url="{node31}" description="" pan="-118.72"/>
       <hotspot id="Point07" skinid="ht_node" tilt="1" title="" target="-96.0/-0.1/70.0" url="{node24}" description="" pan="-250.42"/>
-      <hotspot id="Point08" skinid="ht_image" tilt="-2.84" title="Smith Systems" target="" url="images/icon1.jpg" description="SMCSC 912W12000" pan="-60.14"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" zoomfov="20" zoomafteroutfov="20" zoomoutpause="1" zoomspeed="2" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" zoomin="0" enabled="1" softedge="0" blendtime="0"/>
@@ -1086,6 +1086,7 @@
       <hotspot id="Point06" skinid="ht_node" tilt="-24.88" title="" target="50.1/0.0/70.0" url="{node28}" description="" pan="-340.86"/>
       <hotspot id="Point07" skinid="ht_node" tilt="-0.55" title="" target="-98.0/-0.4/70.0" url="{node24}" description="" pan="-65.75"/>
       <hotspot id="Point08" skinid="ht_node" tilt="-0.67" title="" target="65.8/-4.7/70.0" url="{node25}" description="" pan="-22.14"/>
+      <hotspot id="Point08" skinid="ht_image" tilt="0.42" title="Smith Systems" target="" url="images/icon1.jpg" description="SMCSC 912W12000" pan="-6.94"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" zoomfov="20" zoomafteroutfov="20" zoomoutpause="1" zoomspeed="2" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" zoomin="0" enabled="1" softedge="0" blendtime="0"/>
@@ -1119,6 +1120,7 @@
       <hotspot id="Point06" skinid="ht_node" tilt="-4.42" title="" target="-72.0/0.1/70.0" url="{node27}" description="" pan="-195.68"/>
       <hotspot id="Point07" skinid="ht_node" tilt="-0.31" title="" target="-95.0/-1.1/70.0" url="{node24}" description="" pan="-130.67"/>
       <hotspot id="Point08" skinid="ht_node" tilt="-0.41" title="" target="60.2/-0.6/70.0" url="{node25}" description="" pan="-81.72"/>
+      <hotspot id="Point08" skinid="ht_image" tilt="-0.78" title="Smith Systems" target="" url="images/icon1.jpg" description="SMCSC 912W12000" pan="-59.18"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" zoomfov="20" zoomafteroutfov="20" zoomoutpause="1" zoomspeed="2" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" zoomin="0" enabled="1" softedge="0" blendtime="0"/>
@@ -1151,6 +1153,7 @@
       <hotspot id="Point05" skinid="ht_node" tilt="-15.2" title="" target="70.8/-0.3/70.0" url="{node32}" description="" pan="-60.68"/>
       <hotspot id="Point06" skinid="ht_node" tilt="-0.79" title="" target="-101.1/-0.9/70.0" url="{node30}" description="" pan="-10.26"/>
       <hotspot id="Point07" skinid="ht_node" tilt="0.08" title="" target="70.2/0.5/70.0" url="{node25}" description="" pan="-45.97"/>
+      <hotspot id="Point08" skinid="ht_image" tilt="-0.38" title="Smith Systems" target="" url="images/icon1.jpg" description="SMCSC 912W12000" pan="-19.4"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" zoomfov="20" zoomafteroutfov="20" zoomoutpause="1" zoomspeed="2" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" zoomin="0" enabled="1" softedge="0" blendtime="0"/>
@@ -1183,6 +1186,7 @@
       <hotspot id="Point05" skinid="ht_node" tilt="-10.18" title="" target="95.8/0.4/70.0" url="{node31}" description="" pan="-158.84"/>
       <hotspot id="Point06" skinid="ht_node" tilt="-0.71" title="" target="-66.5/0.0/70.0" url="{node26}" description="" pan="-151.62"/>
       <hotspot id="Point07" skinid="ht_node" tilt="-0.36" title="" target="70.9/0.5/70.0" url="{node25}" description="" pan="-137.03"/>
+      <hotspot id="Point08" skinid="ht_image" tilt="-3.27" title="Smith Systems" target="" url="images/icon1.jpg" description="SMCSC 912W12000" pan="-66.18"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" zoomfov="20" zoomafteroutfov="20" zoomoutpause="1" zoomspeed="2" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" zoomin="0" enabled="1" softedge="0" blendtime="0"/>
@@ -1216,6 +1220,7 @@
       <hotspot id="Point06" skinid="ht_node" tilt="-19.5" title="" target="-122.2/-0.0/70.0" url="{node26}" description="" pan="-217.76"/>
       <hotspot id="Point07" skinid="ht_node" tilt="0.63" title="" target="-92.3/-0.0/70.0" url="{node24}" description="" pan="-217.68"/>
       <hotspot id="Point08" skinid="ht_node" tilt="-0.74" title="" target="77.0/1.0/70.0" url="{node25}" description="" pan="-132.9"/>
+      <hotspot id="Point08" skinid="ht_image" tilt="-1.85" title="Smith Systems" target="" url="images/icon1.jpg" description="SMCSC 912W12000" pan="-119.99"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" zoomfov="20" zoomafteroutfov="20" zoomoutpause="1" zoomspeed="2" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" zoomin="0" enabled="1" softedge="0" blendtime="0"/>
@@ -1249,6 +1254,7 @@
       <hotspot id="Point06" skinid="ht_node" tilt="-9.93" title="" target="124.8/-1.0/70.0" url="{node26}" description="" pan="-339.18"/>
       <hotspot id="Point07" skinid="ht_node" tilt="-1.08" title="" target="-89.2/-1.1/70.0" url="{node24}" description="" pan="-335.05"/>
       <hotspot id="Point08" skinid="ht_node" tilt="-1.02" title="" target="71.9/-2.6/70.0" url="{node25}" description="" pan="-296.01"/>
+      <hotspot id="Point08" skinid="ht_image" tilt="-2.11" title="Smith Systems" target="" url="images/icon1.jpg" description="SMCSC 912W12000" pan="-252.5"/>
     </hotspots>
     <media/>
     <transition type="crossdissolve" zoomfov="20" zoomafteroutfov="20" zoomoutpause="1" zoomspeed="2" zoomafterinfov="90" zoomout="0" blendcolor="0x000000" zoomin="0" enabled="1" softedge="0" blendtime="0"/>
