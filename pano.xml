@@ -178,7 +178,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovfisheye="360" fov="120" scaletofit="1" tilt="90" fovstereographic="270" pan="360"/>
     </view>
-    <userdata latitude="" description="" source="" customnodeid="" heading="0" info="" tags="TOPISO|A|TOP" longitude="" nodeid="node40" title="" datetime="3/8/2023 4:16 AM" comment="" author="" copyright=""/>
+    <userdata latitude="" description="" source="" customnodeid="" heading="0" info="" tags="A|TOP|TOPISO" longitude="" nodeid="node40" title="A" datetime="3/8/2023 4:16 AM" comment="" author="" copyright=""/>
     <hotspots wordwrap="1" width="180" height="20">
       <label borderradius="1" wordwrap="1" bordercolor="0x000000" enabled="0" width="180" textalpha="1" backgroundalpha="1" textcolor="0x000000" border="1" background="1" backgroundcolor="0xffffff" height="20" borderalpha="1"/>
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="0" borderalpha="1"/>
@@ -210,7 +210,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovfisheye="360" fov="120" scaletofit="1" tilt="90" fovstereographic="270" pan="360"/>
     </view>
-    <userdata latitude="" description="" source="" customnodeid="" heading="0" info="" tags="TOPISO|B|TOP" longitude="" nodeid="node41" title="" datetime="3/8/2023 4:16 AM" comment="" author="" copyright=""/>
+    <userdata latitude="" description="" source="" customnodeid="" heading="0" info="" tags="B|TOP|TOPISO" longitude="" nodeid="node41" title="B" datetime="3/8/2023 4:16 AM" comment="" author="" copyright=""/>
     <hotspots wordwrap="1" width="180" height="20">
       <label borderradius="1" wordwrap="1" bordercolor="0x000000" enabled="0" width="180" textalpha="1" backgroundalpha="1" textcolor="0x000000" border="1" background="1" backgroundcolor="0xffffff" height="20" borderalpha="1"/>
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="0" borderalpha="1"/>
@@ -242,7 +242,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovfisheye="360" fov="120" scaletofit="1" tilt="90" fovstereographic="270" pan="360"/>
     </view>
-    <userdata latitude="" description="" source="" customnodeid="" heading="0" info="" tags="TOPISO|C|TOP" longitude="" nodeid="node42" title="" datetime="3/8/2023 4:16 AM" comment="" author="" copyright=""/>
+    <userdata latitude="" description="" source="" customnodeid="" heading="0" info="" tags="C|TOP|TOPISO" longitude="" nodeid="node42" title="C" datetime="3/8/2023 4:16 AM" comment="" author="" copyright=""/>
     <hotspots wordwrap="1" width="180" height="20">
       <label borderradius="1" wordwrap="1" bordercolor="0x000000" enabled="0" width="180" textalpha="1" backgroundalpha="1" textcolor="0x000000" border="1" background="1" backgroundcolor="0xffffff" height="20" borderalpha="1"/>
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="0" borderalpha="1"/>
@@ -274,7 +274,7 @@
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovfisheye="360" fov="120" scaletofit="1" tilt="90" fovstereographic="270" pan="360"/>
     </view>
-    <userdata latitude="" description="" source="" customnodeid="" heading="0" info="" tags="TOPISO|D|TOP" longitude="" nodeid="node43" title="" datetime="3/8/2023 4:16 AM" comment="" author="" copyright=""/>
+    <userdata latitude="" description="" source="" customnodeid="" heading="0" info="" tags="D|TOP|TOPISO" longitude="" nodeid="node43" title="D" datetime="3/8/2023 4:16 AM" comment="" author="" copyright=""/>
     <hotspots wordwrap="1" width="180" height="20">
       <label borderradius="1" wordwrap="1" bordercolor="0x000000" enabled="0" width="180" textalpha="1" backgroundalpha="1" textcolor="0x000000" border="1" background="1" backgroundcolor="0xffffff" height="20" borderalpha="1"/>
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" handcursor="0" borderalpha="1"/>
